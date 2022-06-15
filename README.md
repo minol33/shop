@@ -26,7 +26,7 @@
 # 장바구니 기능
 - 상품 수량 변경 및 삭제 기능
 
-< PC ><br><img width="300" alt="스크린샷 2022-05-20 오후 2 47 16" src="https://user-images.githubusercontent.com/88490416/173764918-56885dd0-55a2-4dc5-bf50-2682f1db35aa.png"><br>
+< PC ><br><img width="992" alt="스크린샷 2022-06-15 오후 4 21 15" src="https://user-images.githubusercontent.com/88490416/173767272-d060fc49-d36c-45b0-a845-ce2d18e67a91.png"><br>
 < Mobile ><br><img width="150" alt="스크린샷 2022-05-20 오후 4 11 30" src="https://user-images.githubusercontent.com/88490416/173765052-12b80cec-32cf-4ae2-bfaf-60df2d721615.png">
 
 
